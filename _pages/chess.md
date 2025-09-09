@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /chess/
 title: Chess
 nav: true
