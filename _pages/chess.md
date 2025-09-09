@@ -1,20 +1,19 @@
 ---
-layout: about
-title: Chess
+layout: default
 permalink: /chess/
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>University of Cambridge</p>
-    <p>San Francisco</p>
-    <p></p>
-
-News: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+title: Chess
+nav: true
+nav_order: 2
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3 # The number of links after the current page
 ---
 
 Welcome to my [personal website](https://ryan-rhys.github.io/ryan__rhys/) and thank you for taking the time to visit!
