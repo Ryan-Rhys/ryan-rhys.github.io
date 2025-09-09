@@ -21,7 +21,7 @@ Welcome to my [personal website](https://ryan-rhys.github.io/ryan__rhys/) and th
 
 I'm a Research Scientist working on AI. My current focus is on large reasoning models and in particular their capabilities in domains such as [mathematics](https://proceedings.neurips.cc/paper_files/paper/2023/file/58168e8a92994655d6da3939e7cc0918-Paper-Datasets_and_Benchmarks.pdf), [chemistry](https://arxiv.org/abs/2506.17238), and chess. Other topics that interest me include probabilistic machine learning and AI4Science. I have worked on these topics at [Meta](https://research.facebook.com/), [Huawei Noah's Ark Lab](https://github.com/huawei-noah), [MILA](https://mila.quebec/en), and the [University of Cambridge](https://www.cam.ac.uk/), where I did my PhD in the Theory of Condensed Matter Group at the [Cavendish Laboratory](https://www.phy.cam.ac.uk/). Prior to that I did my undergrad in chemical physics at [Imperial College London](https://www.imperial.ac.uk/). 
 
-[chess](/chess/)
+[chess](/ryan__rhys/chess/)
 
 In a previous life I played [chess](https://ratings.fide.com/profile/2502054). I am a former [British Junior Champion](https://www.theguardian.com/sport/2010/aug/14/british-championship-second-third-place) (U18) and 4-time Irish Junior Champion (U14, U16, U18). I became a FIDE Master aged 17 and played board 3 on the Irish Men's Olympiad Team at the [2012 Istanbul Olympiad](https://en.wikipedia.org/wiki/40th_Chess_Olympiad). I hold 2 International Master norms both made in the year 2013 from the 4 Nation's Chess League (4NCL) and the 2013 Czech Open in Pardubice.
 
