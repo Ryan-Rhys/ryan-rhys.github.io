@@ -17,7 +17,7 @@ profiles:
       <p>Kilkenny Masters 2006, aged 12</p>
   - align: left
     image: chess10.jpg
-    content: about_einstein.md
+    content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hastings Masters 2011, aged 17</p>
