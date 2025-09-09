@@ -5,15 +5,24 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Publications
     permalink: /publications/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Repositories
+    permalink: /repositories/
   - title: divider
   - title: Blog
     permalink: /blog/
   - title: divider
   - title: Chess
-    permalink: /chess/ 
+    permalink: /chess/
+  - title: divider
+  - title: Quiz
+    permalink: /quiz/
+  - title: divider
+  - title: Running
+    permalink: /running/
+  - title: divider
+  - title: Dance
+    permalink: /dance/ 
 ---
