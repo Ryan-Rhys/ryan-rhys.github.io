@@ -16,5 +16,4 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-[Download CV (PDF)]({{ '/assets/pdf/Website_CV_Sep_2025.pdf' | relative_url }})
 [LinkedIn Profile](https://www.linkedin.com/in/ryan-rhys-griffiths-689b73128/)
