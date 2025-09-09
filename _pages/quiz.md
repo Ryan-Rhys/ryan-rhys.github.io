@@ -1,8 +1,7 @@
 ---
 layout: about
 title: Ryan-Rhys Griffiths
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: /quiz/
 
 profile:
   align: right
