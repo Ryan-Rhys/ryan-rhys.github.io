@@ -3,21 +3,6 @@
 
 @string{aps = {American Physical Society,}}
 
-@article{2025_Narayanan,
-  title={Training a Scientific Reasoning Model for Chemistry},
-  author={Narayanan, Siddharth M and Braza, James D and Griffiths, Ryan-Rhys and Bou, Albert and Wellawatte, Geemi and Ramos, Mayk Caldas and Mitchener, Ludovico and Rodriques, Samuel G and White, Andrew D},
-  journal={arXiv preprint arXiv:2506.17238},
-  year={2025},
-  google_scholar_id={_FM0Bhl9EiAC},
-  selected={true},
-  html={https://arxiv.org/abs/2506.17238},
-  url={https://arxiv.org/pdf/2506.17238},
-  dimensions={true},
-  preview={reasoning.png},
-  pdf={33.pdf},
-  bibtex_show={true}
-}
-
 @article{2025_Baird,
   title={Bayesian Optimization Hackathon for Chemistry and Materials},
   author={Baird, Sterling and Ansari, Mehrad and Afzal, Zartashia and Ai, Qianxiang and Al-Feghali, Alexander and Alain, Mathieu and Altamirano, Matias and Andrews, Thomas and Anker, Andy Sode and Ansari, Rija and others},
@@ -34,7 +19,7 @@
 }
 
 @article{2024_Simon,
-  title={Mathematical capabilities of Chat{GPT}},
+  title={Mathematical Capabilities of Chat{GPT}},
   author={Frieder, Simon and Pinchetti, Luca and Griffiths, Ryan-Rhys and Salvatori, Tommaso and Lukasiewicz, Thomas and Petersen, Philipp and Berner, Julius},
   journal={Advances in Neural Information Processing Systems},
   volume={36},
@@ -74,8 +59,41 @@
   abstract={Automatic Chemical Design is a framework for generating novel molecules with optimized properties. The original scheme, featuring Bayesian optimization over the latent space of a variational autoencoder, suffers from the pathology that it tends to produce invalid molecular structures. First, we demonstrate empirically that this pathology arises when the Bayesian optimization scheme queries latent space points far away from the data on which the variational autoencoder has been trained. Secondly, by reformulating the search procedure as a constrained Bayesian optimization problem, we show that the effects of this pathology can be mitigated, yielding marked improvements in the validity of the generated molecules. We posit that constrained Bayesian optimization is a good approach for solving this kind of training set mismatch in many generative tasks involving Bayesian optimization over the latent space of a variational autoencoder.}
 }
 
+@article{2025_Narayanan,
+  title={Training a Scientific Reasoning Model for Chemistry},
+  author={Narayanan, Siddharth M and Braza, James D and Griffiths, Ryan-Rhys and Bou, Albert and Wellawatte, Geemi and Ramos, Mayk Caldas and Mitchener, Ludovico and Rodriques, Samuel G and White, Andrew D},
+  journal={arXiv preprint arXiv:2506.17238},
+  year={2025},
+  google_scholar_id={_FM0Bhl9EiAC},
+  selected={true},
+  html={https://arxiv.org/abs/2506.17238},
+  url={https://arxiv.org/pdf/2506.17238},
+  dimensions={true},
+  preview={reasoning.png},
+  pdf={33.pdf},
+  bibtex_show={true}
+}
+
+@article{2024_gauche,
+  title={{GAUCHE}: a Library for {Gaussian} Processes in Chemistry},
+  author={Griffiths, Ryan-Rhys and Klarner, Leo and Moss, Henry and Ravuri, Aditya and Truong, Sang and Du, Yuanqi and Stanton, Samuel and Tom, Gary and Rankovic, Bojana and Jamasb, Arian and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024},
+  pdf={6.pdf},
+  google_scholar_id={uJ-U7cs_P_0C},
+  bibtex_show={true},
+  dimensions={true},
+  selected={true},
+  html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/f2b1b2e974fa5ea622dd87f22815f423-Abstract-Conference.html},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/f2b1b2e974fa5ea622dd87f22815f423-Paper-Conference.pdf},
+  video={https://neurips.cc/virtual/2023/poster/70081},
+  preview={gauche.png},
+  abstract={We introduce GAUCHE, an open-source library for GAUssian processes in CHEmistry. Gaussian processes have long been a cornerstone of probabilistic machine learning, affording particular advantages for uncertainty quantification and Bayesian optimisation. Extending Gaussian processes to molecular representations, however, necessitates kernels defined over structured inputs such as graphs, strings and bit vectors. By providing such kernels in a modular, robust and easy-to-use framework, we seek to enable expert chemists and materials scientists to make use of state-of-the-art black-box optimization techniques. Motivated by scenarios frequently encountered in practice, we showcase applications for GAUCHE in molecular discovery, chemical reaction optimisation and protein design. The codebase is made available at https://github.com/leojklarner/gauche.}
+}
+
 @article{2022_Cowen,
-  title={{HEBO}: Pushing the limits of sample-efficient hyper-parameter optimisation},
+  title={{HEBO}: Pushing the Limits of Sample-Efficient Hyper-Parameter Optimisation},
   author={Cowen-Rivers, Alexander I and Lyu, Wenlong and Tutunov, Rasul and Wang, Zhi and Grosnit, Antoine and Griffiths, Ryan Rhys and Maraval, Alexandre Max and Jianye, Hao and Wang, Jun and Peters, Jan and others},
   journal={Journal of Artificial Intelligence Research},
   abstract = {In this work we rigorously analyse assumptions inherent to black-box optimisation hyper-parameter tuning tasks. Our results on the Bayesmark benchmark indicate that heteroscedasticity and non-stationarity pose significant challenges for black-box optimisers. Based on these findings, we propose a Heteroscedastic and Evolutionary Bayesian Optimisation solver (HEBO). HEBO performs non-linear input and output warping, admits exact marginal log-likelihood optimisation and is robust to the values of learned parameters. We demonstrate HEBO’s empirical efficacy on the NeurIPS 2020 Black-Box Optimisation challenge, where HEBO placed first. Upon further analysis, we observe that HEBO significantly outperforms existing black-box optimisers on 108 machine learning hyperparameter tuning tasks comprising the Bayesmark benchmark. Our findings indicate that the majority of hyper-parameter tuning tasks exhibit heteroscedasticity and non-stationarity, multiobjective acquisition ensembles with Pareto front solutions improve queried configurations, and robust acquisition maximisers afford empirical advantages relative to their non-robust counterparts. We hope these findings may serve as guiding principles for practitioners of Bayesian optimisation.},
@@ -115,7 +133,7 @@
 }
 
 @article{2021_Grosnit,
-  title={High-dimensional {Bayesian} optimisation with variational autoencoders and deep metric learning},
+  title={High-dimensional {Bayesian} Optimisation with Variational Autoencoders and Deep Metric Learning},
   author={Griffiths, Ryan-Rhys and Grosnit, Antoine and Tutunov, Rasul and Maraval, Alexandre Max and Cowen-Rivers, Alexander I and Yang, Lin and Zhu, Lin and Lyu, Wenlong and Chen, Zhitang and Wang, Jun and others},
   journal={arXiv preprint arXiv:2106.03609},
   year={2021},
@@ -129,26 +147,8 @@
   abstract={We introduce a method combining variational autoencoders (VAEs) and deep metric learning to perform Bayesian optimisation (BO) over high-dimensional and structured input spaces. By adapting ideas from deep metric learning, we use label guidance from the blackbox function to structure the VAE latent space, facilitating the Gaussian process fit and yielding improved BO performance. Importantly for BO problem settings, our method operates in semi-supervised regimes where only few labelled data points are available. We run experiments on three real-world tasks, achieving state-of-the-art results on the penalised logP molecule generation benchmark using just 3% of the labelled data required by previous approaches. As a theoretical contribution, we present a proof of vanishing regret for VAE BO.}
 }
 
-@article{2024_gauche,
-  title={{GAUCHE}: a library for {Gaussian} processes in chemistry},
-  author={Griffiths, Ryan-Rhys and Klarner, Leo and Moss, Henry and Ravuri, Aditya and Truong, Sang and Du, Yuanqi and Stanton, Samuel and Tom, Gary and Rankovic, Bojana and Jamasb, Arian and others},
-  journal={Advances in Neural Information Processing Systems},
-  volume={36},
-  year={2024},
-  pdf={6.pdf},
-  google_scholar_id={uJ-U7cs_P_0C},
-  bibtex_show={true},
-  dimensions={true},
-  selected={true},
-  html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/f2b1b2e974fa5ea622dd87f22815f423-Abstract-Conference.html},
-  url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/f2b1b2e974fa5ea622dd87f22815f423-Paper-Conference.pdf},
-  video={https://neurips.cc/virtual/2023/poster/70081},
-  preview={gauche.png},
-  abstract={We introduce GAUCHE, an open-source library for GAUssian processes in CHEmistry. Gaussian processes have long been a cornerstone of probabilistic machine learning, affording particular advantages for uncertainty quantification and Bayesian optimisation. Extending Gaussian processes to molecular representations, however, necessitates kernels defined over structured inputs such as graphs, strings and bit vectors. By providing such kernels in a modular, robust and easy-to-use framework, we seek to enable expert chemists and materials scientists to make use of state-of-the-art black-box optimization techniques. Motivated by scenarios frequently encountered in practice, we showcase applications for GAUCHE in molecular discovery, chemical reaction optimisation and protein design. The codebase is made available at https://github.com/leojklarner/gauche.}
-}
-
 @article{2022_Griffiths,
-  title={Data-driven discovery of molecular photoswitches with multioutput {Gaussian} processes},
+  title={Data-Driven Discovery of Molecular Photoswitches with Multioutput {Gaussian} Processes},
   author={Griffiths, Ryan-Rhys and Greenfield, Jake L and Thawani, Aditya R and Jamasb, Arian R and Moss, Henry B and Bourached, Anthony and Jones, Penelope and McCorkindale, William and Aldrick, Alexander A and Fuchter, Matthew J and others},
   journal={Chemical Science},
   volume={13},
@@ -169,7 +169,7 @@
 }
 
 @article{2021_Griffiths,
-  title={Achieving robustness to aleatoric uncertainty with heteroscedastic {Bayesian} optimisation},
+  title={Achieving Robustness to Aleatoric Uncertainty with Heteroscedastic {Bayesian} Optimisation},
   author={Griffiths, Ryan-Rhys and Aldrick, Alexander A and Garcia-Ortegon, Miguel and Lalchand, Vidhi and others},
   journal={Machine Learning: Science and Technology},
   volume={3},
@@ -189,7 +189,7 @@
 }
 
 @article{2020_Moss,
-  title={Gaussian process molecule property prediction with {FlowMO}},
+  title={Gaussian Process Molecule Property Prediction with {FlowMO}},
   author={Griffiths, Ryan-Rhys and Moss, Henry B},
   journal={arXiv preprint arXiv:2010.01118},
   year={2020},
@@ -205,7 +205,7 @@
 }
 
 @article{2021_Bourached,
-  title={Recovery of underdrawings and ghost-paintings via style transfer by deep convolutional neural networks: A digital tool for art scholars},
+  title={Recovery of Underdrawings and Ghost-Paintings via Style Transfer by Deep Convolutional Neural Networks: A Digital Tool for Art Scholars},
   author={Bourached, Anthony and Cann, George H and Griffths, Ryan-Rhys and Stork, David G},
   journal={Electronic Imaging},
   volume={33},
@@ -224,7 +224,7 @@
 }
 
 @article{2021_mrk,
-  title={Modeling the multiwavelength variability of {Mrk} 335 using {Gaussian} processes},
+  title={Modeling the Multiwavelength Variability of {Mrk} 335 using {Gaussian} Processes},
   author={Griffiths, Ryan-Rhys and Jiang, Jiachen and Buisson, Douglas JK and Wilkins, Dan and Gallo, Luigi C and Ingram, Adam and Grupe, Dirk and Kara, Erin and Parker, Michael L and Alston, William and others},
   journal={The Astrophysical Journal},
   volume={914},
@@ -246,7 +246,7 @@
 }
 
 @article{2022_Bourached,
-  title={Generative model-enhanced human motion prediction},
+  title={Generative Model-Enhanced Human Motion Prediction},
   author={Bourached, Anthony and Griffiths, Ryan-Rhys and Gray, Robert and Jha, Ashwani and Nachev, Parashkev},
   journal={Applied AI Letters},
   volume={3},
@@ -267,7 +267,7 @@
 }
 
 @article{2021_Aziz,
-  title={Data considerations in graph representation learning for supply chain networks},
+  title={Data Considerations in Graph Representation Learning for Supply Chain Networks},
   author={Aziz, Ajmal and Kosasih, Edward Elson and Griffiths, Ryan-Rhys and Brintrup, Alexandra},
   journal={arXiv preprint arXiv:2107.10609},
   year={2021},
