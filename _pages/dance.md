@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /chess/
+permalink: /dance/
 title: Dance
 nav: true
 nav_order: 6
