@@ -11,6 +11,9 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Blog
     permalink: /blog/
+  - title: divider
+  - title: Chess
+    permalink: /chess/ 
 ---
