@@ -14,37 +14,37 @@ profiles:
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Kilkenny Masters 2006, aged 12</p>
+      <p>Kilkenny Masters 2006. Age: 12</p>
   - align: left
     image: first_saturday.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>First Saturday Tournament, Budapest, Hungary, 2007, aged 13</p>
+      <p>First Saturday Tournament, Budapest, Hungary, 2007. Age: 13</p>
   - align: right
     image: chess10.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>Hastings Masters 2011. Age: 17</p>
   - align: left
     image: chess6.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Paris Championship, Paris, France, 2012, aged 18</p>
+      <p>Paris Championship, Paris, France, 2012. Age: 18</p>
   - align: right
     image: chess4.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>World Junior Chess Championships U20, Athens, Greece, 2012, aged 18</p>
+      <p>World Junior Chess Championships U20, Athens, Greece, 2012. Age: 18</p>
   - align: left
     image: olympiad.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Istanbul Olympiad 2012, aged 18</p>
+      <p>Istanbul Olympiad 2012. Age: 18</p>
   - align: right
     image: chess_game.jpg
     content: chess1.md
