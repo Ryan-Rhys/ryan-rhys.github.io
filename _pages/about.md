@@ -33,3 +33,7 @@ Other topics that interest me include probabilistic machine learning and AI4Scie
 - I enjoy [running](/ryan__rhys/running/).
 
 - I like to dance and I am the owner of a Bachata [dance](/ryan__rhys/dance/) company.
+
+**Research Collaboration**
+
+I receive a huge volume of emails and LinkedIn messages each day so please accept my apologies if I can't reply to yours! Nonetheless, I have bandwidth for a small number of research collaborations. If you think I may be a useful supervisor for your project please see the instructions in [contact](/ryan__rhys/contact/)!
