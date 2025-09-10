@@ -41,19 +41,19 @@ profiles:
       <p>World Junior Chess Championships U20, Athens, Greece, 2012. Age: 18</p>
   - align: left
     image: olympiad.jpg
-    content: chess1.md
+    content: chess6.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Istanbul Olympiad 2012. Age: 18</p>
   - align: right
     image: chess_game.png
-    content: chess1.md
+    content: chess7.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Griffiths-Papadimitrou, European Junior Chess Championships Boys U18, Albena, Bulgaria 2011. White to play</p>
   - align: left
     image: varsity_chess.jpg
-    content: chess1.md
+    content: chess8.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Cambridge-Oxford Varsity Match</p>
