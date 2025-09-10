@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description: 
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 I receive a huge volume of emails and LinkedIn messages daily so please accept my apologies if I can't reply to yours!
