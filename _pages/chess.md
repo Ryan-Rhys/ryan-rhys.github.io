@@ -56,5 +56,5 @@ profiles:
     content: chess8.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Cambridge-Oxford Varsity Match</p>
+      <p>2019 Cambridge-Oxford Varsity Match</p>
 ---
