@@ -52,7 +52,7 @@ profiles:
     more_info: >
       <p>Griffiths-Papadimitrou, European Junior Chess Championships Boys U18, Albena, Bulgaria 2011. White to play</p>
   - align: left
-    image: varisty_chess.jpg
+    image: varsity_chess.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
