@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: uni_challenge.jpg
-    content: chess1.md
+    content: quiz1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>University Challenge 2019</p>
