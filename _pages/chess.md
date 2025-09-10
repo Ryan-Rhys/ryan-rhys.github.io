@@ -17,19 +17,19 @@ profiles:
       <p>Kilkenny Masters 2006. Age: 12</p>
   - align: left
     image: first_saturday.jpg
-    content: chess1.md
+    content: chess2.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>First Saturday Tournament, Budapest, Hungary, 2007. Age: 13</p>
   - align: right
     image: chess10.jpg
-    content: chess1.md
+    content: chess3.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hastings Masters 2011. Age: 17</p>
   - align: left
     image: chess6.jpg
-    content: chess1.md
+    content: chess4.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Paris Championship, Paris, France, 2012. Age: 18</p>
