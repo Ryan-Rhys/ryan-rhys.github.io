@@ -26,7 +26,7 @@ profiles:
     content: chess3.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011. Age: 17</p>
+      <p>Hastings Masters, UK 2011. Age: 17</p>
   - align: left
     image: chess6.jpg
     content: chess4.md
