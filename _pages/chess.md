@@ -20,7 +20,7 @@ profiles:
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>First Saturday Tournament, Budapest, Hungary, 2007, aged 13</p>
   - align: right
     image: chess10.jpg
     content: chess1.md
@@ -28,35 +28,33 @@ profiles:
     more_info: >
       <p>Hastings Masters 2011, aged 17</p>
   - align: left
-    image: chess10.jpg
+    image: chess6.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>Paris Championship, Paris, France, 2012, aged 18</p>
   - align: right
-    image: chess10.jpg
+    image: chess4.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>World Junior Chess Championships U20, Athens, Greece, 2012, aged 18</p>
   - align: left
-    image: chess10.jpg
+    image: olympiad.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>Istanbul Olympiad 2012, aged 18</p>
   - align: right
-    image: chess10.jpg
+    image: chess_game.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>Griffiths-Papadimitrou, European Junior Chess Championships Boys U18, Albena, Bulgaria 2011. White to play</p>
   - align: left
-    image: chess10.jpg
+    image: varisty_chess.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hastings Masters 2011, aged 17</p>
+      <p>Cambridge-Oxford Varsity Match</p>
 ---
-
-I am a former [British Junior Champion](https://www.theguardian.com/sport/2010/aug/14/british-championship-second-third-place) (U18) and 4-time Irish Junior Champion (U14, U16, U18). I became a FIDE Master aged 17 and played board 3 on the Irish Men's Olympiad Team at the [2012 Istanbul Olympiad](https://en.wikipedia.org/wiki/40th_Chess_Olympiad). I hold 2 International Master norms both made in the year 2013 from the 4 Nation's Chess League (4NCL) and the 2013 Czech Open in Pardubice.
