@@ -16,6 +16,42 @@ profiles:
     more_info: >
       <p>Kilkenny Masters 2006, aged 12</p>
   - align: left
+    image: first_saturday.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: right
+    image: chess10.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: left
+    image: chess10.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: right
+    image: chess10.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: left
+    image: chess10.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: right
+    image: chess10.jpg
+    content: chess1.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hastings Masters 2011, aged 17</p>
+  - align: left
     image: chess10.jpg
     content: chess1.md
     image_circular: false # crops the image to make it circular
