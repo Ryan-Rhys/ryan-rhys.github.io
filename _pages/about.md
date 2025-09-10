@@ -15,12 +15,21 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my [personal website](https://ryan-rhys.github.io/ryan__rhys/) and thank you for taking the time to visit!
 
-I'm a Research Scientist working on AI in San Francisco. My current focus is on large reasoning models and in particular their capabilities in domains such as [mathematics](https://proceedings.neurips.cc/paper_files/paper/2023/file/58168e8a92994655d6da3939e7cc0918-Paper-Datasets_and_Benchmarks.pdf), [chemistry](https://arxiv.org/abs/2506.17238), and chess. Other topics that interest me include probabilistic machine learning and AI4Science. I have worked on these topics at [Meta](https://research.facebook.com/), [Huawei Noah's Ark Lab](https://github.com/huawei-noah), [MILA](https://mila.quebec/en), and the [University of Cambridge](https://www.cam.ac.uk/), where I did my PhD in the Theory of Condensed Matter Group at the [Cavendish Laboratory](https://www.phy.cam.ac.uk/). Prior to that I did my undergrad in chemical physics at [Imperial College London](https://www.imperial.ac.uk/). 
+**Overview**
 
-In a previous life I played [chess](/ryan__rhys/chess/).
+I'm a Research Scientist working on AI in San Francisco. My current focus is on large reasoning models and in particular their capabilities in domains such as [mathematics](https://proceedings.neurips.cc/paper_files/paper/2023/file/58168e8a92994655d6da3939e7cc0918-Paper-Datasets_and_Benchmarks.pdf), [chemistry](https://arxiv.org/abs/2506.17238), and chess. Recently, after working in AI and machine learning for 12 years, I am becoming increasingly concerned about AI safety and the future of work.
 
-In another previous life I competed in quizzes [quiz](/ryan__rhys/quiz/).
+Other topics that interest me include probabilistic machine learning and AI4Science. I have worked on these topics at [Meta](https://research.facebook.com/), [Huawei Noah's Ark Lab](https://github.com/huawei-noah), [MILA](https://mila.quebec/en), and the [University of Cambridge](https://www.cam.ac.uk/), where I did my PhD in the Theory of Condensed Matter Group at the [Cavendish Laboratory](https://www.phy.cam.ac.uk/). Prior to that I did my undergrad in chemical physics at [Imperial College London](https://www.imperial.ac.uk/). 
 
-I have enjoyed running for 16 years [running](/ryan__rhys/running/).
+**Miscellaneous Facts**
 
-I am the owner of a Bachata dance company [dance](/ryan__rhys/dance/).
+- I have an [Erdos number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 4 ([Alexei Kornyshev](https://scholar.google.com/citations?user=UU6vixUAAAAJ&hl=en) -> [Abraham Nitzan](https://en.wikipedia.org/wiki/Abraham_Nitzan) -> [Peter Salamon](https://en.wikipedia.org/wiki/Peter_Salamon) -> [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) being one route) and a [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) of 2 (Jeremey Paxman -> Colin Firth -> Kevin Bacon), making my
+- [Erdos-Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) 6.
+
+- In a previous life I played [chess](/ryan__rhys/chess/).
+
+- In a previous life I liked to [quiz](/ryan__rhys/quiz/).
+
+- I enjoy [running](/ryan__rhys/running/).
+
+- I like to dance and I am the owner of a Bachata [dance](/ryan__rhys/dance/) company.
