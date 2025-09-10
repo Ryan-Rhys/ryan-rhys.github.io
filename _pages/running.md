@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: hyde_park_relays.jpg
-    content: chess1.md
+    content: running1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hyde Park Relays 2015</p>
