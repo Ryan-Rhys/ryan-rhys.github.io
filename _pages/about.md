@@ -25,16 +25,15 @@ For a more granular picture of my research interests see my [Google Scholar page
 
 **Miscellaneous Facts**
 
-- I have an [Erdos number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 4 ([Alexei Kornyshev](https://scholar.google.com/citations?user=UU6vixUAAAAJ&hl=en) -> [Abraham Nitzan](https://en.wikipedia.org/wiki/Abraham_Nitzan) -> [Peter Salamon](https://en.wikipedia.org/wiki/Peter_Salamon) -> [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) being one route) and a [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) of 2 (Jeremey Paxman -> Colin Firth -> Kevin Bacon), making my
-- [Erdos-Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) 6.
+- I have an [Erdos number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 4 ([Alexei Kornyshev](https://scholar.google.com/citations?user=UU6vixUAAAAJ&hl=en) -> [Abraham Nitzan](https://en.wikipedia.org/wiki/Abraham_Nitzan) -> [Peter Salamon](https://en.wikipedia.org/wiki/Peter_Salamon) -> [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) being one route) and a [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) of 2 (Jeremey Paxman -> Colin Firth -> Kevin Bacon), making my [Erdos-Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) 6.
 
 - In a previous life I played [chess](/ryan__rhys/chess/).
 
 - In a previous life I liked to [quiz](/ryan__rhys/quiz/).
 
-- I enjoy [running](/ryan__rhys/running/).
+- In a current life I enjoy [running](/ryan__rhys/running/).
 
-- I like to dance and I am the owner of a Bachata [dance](/ryan__rhys/dance/) company.
+- In a current life I like to dance and I am the owner of a Bachata [dance](/ryan__rhys/dance/) company.
 
 **Research Collaboration**
 
