@@ -24,5 +24,8 @@ children:
     permalink: /running/
   - title: divider
   - title: Dance
-    permalink: /dance/ 
+    permalink: /dance/
+  - title: divider
+  - title: Contact
+    permalink: /contact/ 
 ---
