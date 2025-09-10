@@ -46,7 +46,7 @@ profiles:
     more_info: >
       <p>Istanbul Olympiad 2012. Age: 18</p>
   - align: right
-    image: chess_game.jpg
+    image: chess_game.png
     content: chess1.md
     image_circular: false # crops the image to make it circular
     more_info: >
