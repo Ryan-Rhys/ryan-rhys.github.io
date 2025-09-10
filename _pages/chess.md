@@ -35,7 +35,7 @@ profiles:
       <p>Paris Championship, Paris, France, 2012. Age: 18</p>
   - align: right
     image: chess4.jpg
-    content: chess1.md
+    content: chess5.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>World Junior Chess Championships U20, Athens, Greece, 2012. Age: 18</p>
