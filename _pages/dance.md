@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: new_flyer.jpg
-    content: chess1.md
+    content: dance1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Hello Bachata</p>
