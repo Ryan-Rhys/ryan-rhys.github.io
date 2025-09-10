@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be serving as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
+I will serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
