@@ -7,4 +7,5 @@ nav: true
 nav_order: 1
 ---
 
-Hi
+[Download CV (PDF)](/assets/pdf/Website_CV_Sep_2025.pdf)
+[LinkedIn](https://www.linkedin.com/in/ryan-rhys-griffiths-689b73128/)
