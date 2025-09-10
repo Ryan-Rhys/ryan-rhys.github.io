@@ -14,6 +14,6 @@ profiles:
     content: dance1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hello Bachata</p>
+      <p>Bachata Lab and Bachata Flow Social</p>
 ---
 
