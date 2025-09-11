@@ -27,5 +27,7 @@ children:
     permalink: /dance/
   - title: divider
   - title: Contact
-    permalink: /contact/ 
+    permalink: /contact/
+  - title: Blog
+    permalink: /blog/ 
 ---
