@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy
 description:
 nav: true
-nav_order: 10
+nav_order: 11
 ---
 
 Effective Date: September 15, 2025
