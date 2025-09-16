@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my [personal website](https://ryan-rhys.github.io/ryan__rhys/) and thank you for taking the time to visit!
+Welcome to my [personal website](https://ryan-rhys.com) and thank you for taking the time to visit!
 
 **Overview**
 
@@ -27,14 +27,14 @@ For a more granular picture of my research interests see my [Google Scholar page
 
 - I have an [Erdos number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 4 ([Alexei Kornyshev](https://scholar.google.com/citations?user=UU6vixUAAAAJ&hl=en) -> [Abraham Nitzan](https://en.wikipedia.org/wiki/Abraham_Nitzan) -> [Peter Salamon](https://en.wikipedia.org/wiki/Peter_Salamon) -> [Paul Erdos](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) being one route) and a [Bacon number](https://simple.wikipedia.org/wiki/Bacon_number) of 3 (Jeremy Paxman -> Colin Firth -> Kevin Bacon), making my [Erdos-Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) 7.
 
-- In a previous life I played [chess](/ryan__rhys/chess/).
+- In a previous life I played [chess](/chess/).
 
-- In a previous life I liked to [quiz](/ryan__rhys/quiz/).
+- In a previous life I liked to [quiz](/quiz/).
 
-- In a current life I enjoy [running](/ryan__rhys/running/).
+- In a current life I enjoy [running](/running/).
 
-- In a current life I like to dance and I am the owner of a Bachata [dance](/ryan__rhys/dance/) company.
+- In a current life I like to dance and I am the owner of a Bachata [dance](/dance/) company.
 
 **Research Collaboration**
 
-I receive a huge volume of emails and LinkedIn messages each day so please accept my apologies if I can't reply to yours! Nonetheless, I have bandwidth for a small number of research collaborations. If you think I may be a useful supervisor for your project please see the instructions in [contact](/ryan__rhys/contact/)!
+I receive a huge volume of emails and LinkedIn messages each day so please accept my apologies if I can't reply to yours! Nonetheless, I have bandwidth for a small number of research collaborations. If you think I may be a useful supervisor for your project please see the instructions in [contact](/contact/)!
