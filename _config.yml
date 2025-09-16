@@ -11,14 +11,14 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.  
-  <a href="/ryan__rhys/privacy/">Privacy Policy</a> | 
-  <a href="/ryan__rhys/terms/">Terms of Service</a>
+  <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a> |
+  <a href="{{ '/terms/' | relative_url }}">Terms of Service</a>
 keywords: Ryan-Rhys Griffiths, AI, Machine Learning, Bachata, Chess, Running # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ryan__rhys.github.io # the base hostname & protocol for your site
-baseurl: /ryan__rhys # the subpath of your site, e.g. /blog/. Leave blank for root
+url: "https://ryanrhys.com"
+baseurl: ""  # leave empty because the site is at root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
