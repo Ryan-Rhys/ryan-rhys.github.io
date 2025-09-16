@@ -2,6 +2,8 @@
 layout: page
 title: Terms of Service
 permalink: /terms
+nav: true
+nav_order: 11
 ---
 
 
