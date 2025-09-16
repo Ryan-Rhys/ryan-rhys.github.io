@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy
 nav: true
-nav_order 12
+nav_order 10
 ---
 
 Effective Date: September 15, 2025
