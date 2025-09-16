@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy
 permalink: /privacy/
 description:
 nav: true
 nav_order: 11
 ---
 
-Effective Date: September 15, 2025
+Privacy Policy, Effective Date: September 15, 2025
 
 1. Introduction  
    Welcome to ryanrhys.com (the “Site”). I (Ryan-Rhys Griffiths) believe in protecting your privacy. This Privacy Policy explains what personal data I collect, why I collect it, how I use it, and how you can contact me about it.
