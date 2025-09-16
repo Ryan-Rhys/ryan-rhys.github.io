@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Ryan-Rhys Griffiths
+title: Ryan-Rhys
 permalink: /
 
 profile:
