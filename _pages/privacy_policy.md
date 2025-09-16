@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy
+permalink: /privacy/
 description:
 nav: true
 nav_order: 11
