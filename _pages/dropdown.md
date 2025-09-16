@@ -2,7 +2,7 @@
 layout: page
 title: Submenus
 nav: true
-nav_order: 8
+nav_order: 12
 dropdown: true
 children:
   - title: CV
@@ -29,5 +29,9 @@ children:
   - title: Contact
     permalink: /contact/
   - title: Blog
-    permalink: /blog/ 
+    permalink: /blog/
+  - title: Privacy Policy
+    permalink: /privacy/
+  - title: Terms of Service
+    permalink: /terms/
 ---
