@@ -6,9 +6,6 @@ nav: true
 nav_order: 11
 ---
 
-
-Terms of Service for Ryan-Rhys Griffiths
-
 Effective Date: September 15, 2025
 
 1. Acceptance of Terms  
