@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Service
+title: Terms
 permalink: /terms/
 nav: true
 nav_order: 10
