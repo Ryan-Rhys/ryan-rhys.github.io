@@ -3,7 +3,7 @@ layout: page
 title: Terms of Service
 permalink: /terms
 nav: true
-nav_order: 11
+nav_order: 9
 ---
 
 Effective Date: September 15, 2025
