@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+permalink: /terms
+---
+
 Terms of Service for Ryan-Rhys Griffiths
 
 Effective Date: September 15, 2025
