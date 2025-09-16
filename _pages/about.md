@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Ryan-Rhys
+title: Me
 permalink: /
 
 profile:
