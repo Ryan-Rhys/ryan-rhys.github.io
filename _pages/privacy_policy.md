@@ -1,4 +1,10 @@
-Privacy Policy for Ryan Rhys
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy
+nav: true
+nav_order 12
+---
 
 Effective Date: September 15, 2025
 
