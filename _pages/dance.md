@@ -10,10 +10,10 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: new_flyer.jpg
+    image: new_bachata_lab_flyer.png
     content: dance1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Bachata Lab and Bachata Flow Social</p>
+      <p>Bachata Lab Classes and Social</p>
 ---
 
