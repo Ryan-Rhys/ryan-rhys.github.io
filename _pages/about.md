@@ -33,7 +33,7 @@ For a more granular picture of my research interests see my [Google Scholar page
 
 - In a current life I enjoy [running](/running/).
 
-- In a current life I like to dance and I am the owner of a Bachata [dance](/dance/) company.
+- In a current life I like to dance and I am the owner of [Bachata Lab](https://www.bachatalab.org), a weekly bachata class and social in San Francisco. See [dance](/dance/).
 
 **Research Collaboration**
 
