@@ -158,6 +158,8 @@
   gtag('config', 'G-TMFF5HFSB4');
 </script>
 
-<!-- Google AdSense Auto Ads -->
+<!-- Google AdSense Auto Ads (disabled on the blog and blog posts) -->
+{% unless page.url contains '/blog' %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4845196851170280"
      crossorigin="anonymous"></script>
+{% endunless %}
