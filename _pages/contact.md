@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact
+seo_description: "How to contact Ryan-Rhys Griffiths about research collaborations, by email or using the contact form on this page."
 description: 
 nav: true
 nav_order: 8

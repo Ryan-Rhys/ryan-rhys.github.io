@@ -2,6 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
+seo_description: "A complete list of the research papers of Ryan-Rhys Griffiths, with abstracts, BibTeX citations and links."
 description: 
 nav: true
 nav_order: 2

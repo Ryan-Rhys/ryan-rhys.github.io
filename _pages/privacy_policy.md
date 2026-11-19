@@ -3,7 +3,7 @@ layout: page
 title: Privacy
 permalink: /privacy/
 description:
-nav: true
+nav: false
 nav_order: 11
 ---
 
