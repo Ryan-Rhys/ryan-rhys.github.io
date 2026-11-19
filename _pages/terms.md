@@ -2,7 +2,7 @@
 layout: page
 title: Terms
 permalink: /terms/
-nav: true
+nav: false
 nav_order: 10
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: Blog
+seo_description: "Meditations, the blog of Ryan-Rhys Griffiths, with posts on topics such as self-petitioning for an EB-1A green card."
 nav: true
 nav_order: 9
 pagination:

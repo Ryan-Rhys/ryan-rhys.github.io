@@ -2,6 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
+seo_description: "Open-source software libraries that Ryan-Rhys Griffiths has worked on, including GAUCHE, HEBO, Aviary and LDP."
 description:
 nav: true
 nav_order: 3

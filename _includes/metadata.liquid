@@ -39,7 +39,8 @@
   {% endif %}
 </title>
 <meta name="author" content="{{ author_name }}">
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% assign meta_description = page.seo_description | default: page.description | default: site.description | strip %}
+<meta name="description" content="{{ meta_description | escape }}">
 {% if page.keywords or site.keywords %}
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 {% endif %}
@@ -57,7 +58,7 @@
   <meta property="og:type" content="{% if is_blog_post %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ title }} | {{ page.title }}{% else %}{{ title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{{ meta_description | escape }}">
   {% if page.og_image or site.og_image %}
     <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
   {% endif %}
@@ -66,7 +67,7 @@
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{{ meta_description | escape }}">
   {% if page.og_image or site.og_image %}
     <meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
   {% endif %}
@@ -216,26 +217,65 @@
     {% capture link %}https://www.zotero.org/{{ site.zotero_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
-  {% if sameaslinks != blank %}
-    {% assign sameaslinks = sameaslinks | split: '' %}
-  {% endif %}
 
-  <script type="application/ld+json">
-    {
-        "author":
-        {
-            "@type": "Person",
-            "name": "{{ author_name }}"
-        },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-        "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks }},
+  {% if page.url == '/' %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "https://ryan-rhys.com/#person",
+        "name": "Ryan-Rhys Griffiths",
+        "url": "https://ryan-rhys.com/",
+        "image": "https://ryan-rhys.com/assets/img/prof_pic.jpg",
+        "jobTitle": "Director of ML Research and Partnerships",
+        "worksFor": { "@type": "Organization", "name": "Fields Model Initiative", "url": "https://fieldsmodel.org/" },
+        "description": "AI research scientist in San Francisco working on reasoning models for mathematics and chemistry.",
+        "homeLocation": { "@type": "Place", "name": "San Francisco, California, USA" },
+        "alumniOf": [
+          { "@type": "CollegeOrUniversity", "name": "University of Cambridge" },
+          { "@type": "CollegeOrUniversity", "name": "Imperial College London" }
+        ],
+        "knowsAbout": [
+          "Machine learning",
+          "Large language models",
+          "Reasoning models",
+          "AI for mathematics",
+          "AI for chemistry",
+          "Bayesian optimisation",
+          "Gaussian processes"
+        ],
+        "award": ["Top Reviewer, NeurIPS 2025", "Outstanding Reviewer, AISTATS 2025", "Outstanding Reviewer, NeurIPS 2023", "FIDE Master"],
+        "sameAs": [
+          "https://scholar.google.com/citations?user=RBKs-lEAAAAJ",
+          "https://orcid.org/0000-0003-3117-4559",
+          "https://dblp.org/pid/241/7007.html",
+          "https://www.semanticscholar.org/author/117074363",
+          "https://github.com/Ryan-Rhys",
+          "https://www.linkedin.com/in/ryan-rhys-griffiths-689b73128/",
+          "https://x.com/ryan__rhys",
+          "https://bsky.app/profile/ryan-rhys.bsky.social"
+        ]
+      }
+    </script>
+  {% else %}
+    {% assign ld_url = page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' %}
+    {% if page.title %}{% assign ld_headline = page.title %}{% else %}{% assign ld_headline = site.title %}{% endif %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": {% if is_blog_post %}"BlogPosting"{% else %}"WebSite"{% endif %},
+        "url": {{ ld_url | jsonify }},
+        "name": {{ author_name | strip | jsonify }},
+        "headline": {{ ld_headline | strip | jsonify }},
+        "description": {{ meta_description | jsonify }},
+        {% if is_blog_post %}
+        "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
         {% endif %}
-        "name": "{{ author_name }}",
-        "@context": "https://schema.org"
-    }
-  </script>
+        {% if sameaslinks.size > 0 %}
+        "sameAs": {{ sameaslinks | jsonify }},
+        {% endif %}
+        "author": {"@type": "Person", "name": {{ author_name | strip | jsonify }}, "url": {{ site.url | append: '/' | jsonify }}}
+      }
+    </script>
+  {% endif %}
 {% endif %}
